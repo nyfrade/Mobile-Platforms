@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750110907942",
+    "project_id": "fruitcatcher-82ae9",
+    "storage_bucket": "fruitcatcher-82ae9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750110907942:android:0a21d1fbb798c9d18150e7",
+        "android_client_info": {
+          "package_name": "com.example.fruitcatcher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMvwuqQwzAv7XtGFJIZ1W6wwlMGoYfHYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
