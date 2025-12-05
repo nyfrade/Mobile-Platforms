@@ -5,10 +5,11 @@ This repository hosts the projects and assignments developed for the **Game Deve
 **Academic Year:** 2025/2026
 
 ## 📋 Contents
-* **Assignment 1:** Development of a standard **Calculator App**.
-* **Assignment 2:** Development of a mobile application consuming an external **API**.
-* **Assignment 3:** Implementation of a practice game using a custom **Game Loop**.
-* **Assignment 4:** Integration of **Firebase** and **Android Room** for data persistence (cloud and local) in a previously developed assignment.
+* **Assignment 1 (`/Calculator`):** Development of a standard **Calculator App**.
+* **Assignment 2 (`/API`):** Development of a mobile application consuming an external **API** (Dog Breed API).
+* **Assignment 3 (`/FruitCatcher`):** Implementation of a practice game using a custom **Game Loop** (Fruit Catcher).
+* **Assignment 4 (`/FruitCatcher++`):** Integration of **Firebase** authentication and improvement of the initial game app with music and effects.
+* **Assignment 5 (`/PawPedia`):** Integration of **Android Room** to save info locally, improvement of the API app, new HUD, effects, and music.
 
 ## 💻 Tech Stack
 * **Language:** Kotlin
